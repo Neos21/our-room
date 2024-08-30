@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: http://ourroom.s41.xrea.com/sitemap.xml
